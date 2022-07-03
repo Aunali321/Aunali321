@@ -1,7 +1,8 @@
 ### My Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aunali321&count_private=true&theme=radical)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Aunali321&count_private=true&theme=radical">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aunali321&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Aunali321&count_private=true&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=Aunali321&layout=compact)">
+
 
 ### Technologies I have used
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
