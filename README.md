@@ -1,3 +1,5 @@
+<img align="center" src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Hi+there!;My+name+is+Aunali.;I+am+a+Software+Developer+from+India." />
+
 ### My Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Aunali321&count_private=true&theme=radical">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
