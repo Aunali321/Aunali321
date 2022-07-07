@@ -2,8 +2,7 @@
 
 ### My Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Aunali321&count_private=true&theme=radical">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Aunali321&count_private=true&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=Aunali321&layout=compact)">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aunali321&layout=compact">
 
 
 ### Technologies I have used
