@@ -1,9 +1,15 @@
 <img align="center" src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Hi+there!;My+name+is+Aunali.;I+am+a+Software+Developer+from+India." />
 
 ### My Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Aunali321&count_private=true&theme=radical">
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aunali321&layout=compact">
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=Aunali321&count_private=true&theme=radical">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aunali321&layout=compact"> -->
 
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aunali321&count_private=true&theme=radical" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aunali321&layout=compact" />
+</a>
 
 ### Technologies I have used
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
