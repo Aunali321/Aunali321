@@ -9,7 +9,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aunali321&layout=compact" />
 </a>
 
-### Technologies I use
+### Tech I use
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
