@@ -1,4 +1,4 @@
-<img align="center" src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Hi+there!;My+name+is+Aunali.;I+am+a+Software+Developer+from+India." />
+<img align="center" src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Hello+there!;My+name+is+Aunali.;I+am+a+Software+Developer+from+India." />
 
 ### My Stats
 <a href="#">
