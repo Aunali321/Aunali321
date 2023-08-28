@@ -1,7 +1,9 @@
 <div align=center>
-  <img src="https://readme-typing-svg.herokuapp.com?color=2dd4bf&center=true&vCenter=true&width=600&height=100&lines=Hello+there!;I'm+Cossale👋" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=2dd4bf&center=true&vCenter=true&width=600&height=100&lines=Hello+there!;I'm+Cossale 👋" />
 </div>
 
+<h3 align="center"><i>Perfecting the art of procrastination.</i></h3>
+<hr>
 
 &nbsp;
 <!-- GitHub Streak -->
@@ -10,6 +12,7 @@
     <img width=300 height=118 src="https://github-readme-streak-stats.herokuapp.com/?user=Aunali321&background=0000&border=0000&stroke=aaa&ring=059669&fire=10b981&currStreakLabel=10b981&currStreakNum=4a9e90&sideLabels=10b981&sideNums=4a9e90&dates=aaa" />
   </a>
 </div>
+
 <!-- GitHub Stats -->
 <div align=center >
   <a href=https://github.com/anuraghazra/github-readme-stats >
@@ -17,32 +20,17 @@
   </a>
 </div>
 
-<div align=center>
-  <div style="display:inline-grid; gap:30px; grid-template-columns: auto auto auto auto; margin: 25px 0px 25px;">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/flutter/" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/dart/" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/appwrite/" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss/" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/node.js/" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/kotlin/" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/php/" />
-    <img height="32" width="32" src="https://cdn.simpleicons.org/jetpackcompose/" />
-  </div>
-</div>
+<p align="center" style="margin-top: 25px;">
+	<img src="https://skillicons.dev/icons?i=flutter,dart,svelte,ts,nodejs,tailwindcss,kotlin,php" />
+</p>
 
 &nbsp;
-<div style="display:flex; justify-content:space-between; align-items:baseline;">
 
-  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/cossale)
+  <p align="center" style="display: flex; justify-content: center;">
+    <img style="margin-right: 5px;" src="https://auna.li/_app/immutable/assets/personal_logo.bb6729f7.png" height="24" width="24">
+    <a href="https://auna.li/">Website</a>
+  </p>
 
-  <div style="display:flex; align-items: center;">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/gmail/" style="margin-right: 5px;" />aunvakil.aa@gmail.com
-  </div>
-  
-  <div style="display:flex; align-items: center;">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/discord/" style="margin-right: 5px;" />-Cossale-#0160
-  </div>
 
-  <img src="https://komarev.com/ghpvc/?username=Aunali321&style=for-the-badge" style="height:32px;">
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Aunali321&style=for-the-badge" style="height:32px;">  </p>
 
-</div>
