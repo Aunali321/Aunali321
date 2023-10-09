@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://readme-typing-svg.herokuapp.com?color=2dd4bf&center=true&vCenter=true&width=600&height=100&lines=Hello+there!;I'm+Cossale 👋" />
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=50&color=2DD4BF&center=true&vCenter=true&width=600&height=100&lines=Hello+there!;I'm+Cossale+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </div>
 
 <h3 align="center"><i>Perfecting the art of procrastination.</i></h3>
@@ -13,12 +13,16 @@
   </a>
 </div>
 
+<br />
+
 <!-- GitHub Stats -->
 <div align=center >
   <a href=https://github.com/anuraghazra/github-readme-stats >
     <img width=420 height=165 src="https://github-readme-stats.vercel.app/api?username=Aunali321&bg_color=0000&text_color=aaa&title_color=10b981&icon_color=10b981&show_icons=true&border_color=aaa&border_radius=16" />
   </a>
 </div>
+
+<br />
 
 <p align="center" style="margin-top: 25px;">
 	<img src="https://skillicons.dev/icons?i=flutter,dart,svelte,ts,nodejs,tailwindcss,kotlin,php" />
@@ -28,9 +32,9 @@
 
   <p align="center" style="display: flex; justify-content: center;">
     <img style="margin-right: 5px;" src="https://auna.li/_app/immutable/assets/personal_logo.bb6729f7.png" height="24" width="24">
-    <a href="https://auna.li/">Website</a>
+    <a style href="https://auna.li/">Website</a>
   </p>
 
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Aunali321&style=for-the-badge" style="height:32px;">  </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Aunali321&style=for-the-badge&color=10b981" style="height:32px;">  </p>
 
